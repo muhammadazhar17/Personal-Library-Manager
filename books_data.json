@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Meri Kahani",
+        "author": "Muhammad Azhar",
+        "year": "2024",
+        "genre": "Kahani",
+        "read": true
+    },
+    {
+        
+        "title": "The Great Gatshy",
+        "author": "F. Scott Fitzgerald",
+        "year": "1925",
+        "genre": "Fiction",
+        "read": true
+    }
+
+
+]
